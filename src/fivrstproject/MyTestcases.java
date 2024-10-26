@@ -23,7 +23,7 @@ public void mySetup() throws InterruptedException {
 //	driver.navigate().to(myWebsite2);
 //	driver.navigate().back();
 //	driver.navigate().forward();
-//	System.out.println(driver.getCurrentUrl().toUpperCase());
+//	System.out.println(driver.getCurrentUrl().toUpperCase());llllllllllllllllllllll
 //	System.out.println(driver.getTitle());
 //	Thread.sleep(5000);
 //driver.navigate().refresh(); 
